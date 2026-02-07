@@ -1,6 +1,6 @@
 ## Hi! 👋 I am Matteo Marrone
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=test;test2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Theoretical Physicist)](https://git.io/typing-svg)
 
 <!--
 **MatteoMarrone/MatteoMarrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
