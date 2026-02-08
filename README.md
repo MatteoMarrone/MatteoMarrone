@@ -1,6 +1,6 @@
 ## Hi! 👋 I am Matteo Marrone
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Theoretical+Physicist;High+energy+physics,+Cosmology;Always+learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Theoretical+Physicist;Always+learning...)](https://git.io/typing-svg)
 
 ## About me
 I am a **theoretical physicist**, currently doing a MSc in Astrophysics, Particle Physics and Cosmology at the University of Barcelona. I have been working with numerical codes in my past projects, which you may find in my account.
